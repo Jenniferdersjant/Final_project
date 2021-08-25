@@ -11,6 +11,8 @@
 ## Background
 It seems as if everytime Elon Musk tweets something about the Bitcoin, the Bitcoin price seems to adjust accordingly. Is there really a correlation between the tweets about Bitcoin and the Bitcoin prices? Read more of this research to find out. 
 
+https://cdn.vox-cdn.com/thumbor/kRoX7XGXHMCqTtvu4KGGeoqmBdI=/0x0:5021x3161/920x613/filters:focal(2110x1180:2912x1982):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69306217/1232949232.0.jpg
+
 ## Methodology
 
 
@@ -19,3 +21,6 @@ It seems as if everytime Elon Musk tweets something about the Bitcoin, the Bitco
 
 
 ## Key findings
+
+
+## Conclusion
