@@ -1,4 +1,4 @@
-## Do Bitcoin tweets predict the Bitcoin prices?
+## Do tweets on Bitcoin predict the price of Bitcoin?
 
 
 ## Table of contents
